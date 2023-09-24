@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_string">
+        <item>南宁</item>
+        <item>柳州</item>
+        <item>桂林</item>
+        <item>梧州</item>
+    </string-array>
+</resources>
